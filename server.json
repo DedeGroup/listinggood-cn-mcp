@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.DedeGroup.listinggood-cn",
+  "title": "ListingGood 国内版 MCP",
+  "description": "让亚马逊的 AI 主动推荐你的商品。国内版远程 MCP 服务（listinggood.cn，已 ICP 备案），提供亚马逊 Listing 合规预检、AI 推荐就绪度评分、一句话生成高转化文案、POA 申诉、差评分析，粘贴即用。",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/DedeGroup/listinggood-cn-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://listinggood.cn/connect",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://listinggood.cn/mcp"
+    }
+  ]
+}
