@@ -53,4 +53,4 @@ https://listinggood.cn/mcp
 - 国内平台统一使用 `listinggood.cn/mcp`，不切换 `.com`。
 - 工具描述与计费口径全平台一致，详见《ListingGood 国内推广执行流程 · 渠道作战图》。
 
-© ListingGood · 上海得珞国际贸易有限公司（国内运营主体）
+© ListingGood · 上海得服科技有限公司（国内运营主体）
