@@ -18,11 +18,12 @@ https://listinggood.cn/mcp
 - 鉴权：免费工具免 Key；付费工具使用在 [listinggood.cn/connect](https://listinggood.cn/connect) 获取的 API Key 作为 Bearer Token
 - 官网：[https://listinggood.cn](https://listinggood.cn)　接入页：[https://listinggood.cn/connect](https://listinggood.cn/connect)
 
-## 7 个工具
+## 8 个工具
 
 | 工具 | 计费 | 说明 |
 |---|---|---|
 | `ai_readiness_check` | 免费 | AI 推荐就绪度评分：Rufus / COSMO 会不会推荐你的商品 |
+| `agent_ready_check` | 免费 | Agent-Ready 评分：任意平台（亚马逊 / Shopify / Walmart / TikTok）商品能否被 AI 购物代理读取、信任并下单 |
 | `compliance_check` | 免费 | 发布前红线词 / 类目 / 知识产权风险快检 |
 | `fill_from_sentence` | 免费 | 一句话口语化描述 → 结构化 Listing 字段 |
 | `compliance_scan` | 2 星 | 15 年知识库深度合规审计（GPSR / 知识产权 / 类目） |
@@ -46,7 +47,7 @@ https://listinggood.cn/mcp
 
 1. 打开 [listinggood.cn/connect](https://listinggood.cn/connect)，按平台（千问办公 / WorkBuddy / 豆包 / Claude / Cursor）复制对应接入方式。
 2. 在客户端里填入端点 `https://listinggood.cn/mcp` 与你的 API Key（免费工具无需 Key）。
-3. 直接对话式调用 7 个工具即可。
+3. 直接对话式调用 8 个工具即可。
 
 ## 红线
 
